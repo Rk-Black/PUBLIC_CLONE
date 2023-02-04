@@ -1,10 +1,10 @@
-# RK-OK
+# PUBLIC_CLONE
 
-rm -rf RK-OK
+rm -rf PUBLIC_CLONE
 
 git clone https://github.com/Rk-Black/RK-OK
 
-cd RK-OK
+cd PUBLIC_CLONE
 
 python Random-Enjoy.py
 
