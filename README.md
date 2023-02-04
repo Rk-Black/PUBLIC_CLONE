@@ -1,10 +1,3 @@
-#Tool work
-
-This tool is for public cloning and file cloning.
-
-
-
-
 # PUBLIC_CLONE
 
 pip install requests
